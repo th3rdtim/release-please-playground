@@ -1,10 +1,10 @@
 {
   "packages": {
-    ".": {
-      "changelog-path": "CHANGELOG.md",
+    "packages/utilities/log": {
+      "changelog-path": "packages/utilities/log/CHANGELOG.md",
       "release-type": "node",
-      "bump-minor-pre-major": false,
-      "bump-patch-for-minor-pre-major": false,
+      "bump-minor-pre-major": true,
+      "bump-patch-for-minor-pre-major": true,
       "draft": false,
       "prerelease": false
     }
