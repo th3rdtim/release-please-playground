@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.1](https://github.com/th3rdtim/release-please-playground/compare/log-v0.1.0...log-v0.1.1) (2026-06-17)
+
+
+### Features
+
+* **logger:** add readme ([e799d23](https://github.com/th3rdtim/release-please-playground/commit/e799d230cbc20a3b3b54325359b6cb9f1f48f852))
+
 ## 1.0.0 (2026-06-15)
 
 
